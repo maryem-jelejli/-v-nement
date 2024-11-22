@@ -32,5 +32,6 @@
           time: "11:00",
           petsAllowed: false,
           organizer: "cheick hafedh",
-        },
-      ],
+        }
+      ]
+}
